@@ -1,8 +1,8 @@
-let nun1 = 10
-let nun2 = 5
+let nun1 = prompt("Informe o 1° valor. ");
+let nun2 = prompt("Informe o 2° valor. ");
 let nun3 = 7
 let multi = nun1 * nun2;
-let soma = nun1 + nun2;
+let soma = Number (nun1) + Number (nun2);
 let sub = soma - nun3;
 let divisao = multi / nun2;
 let base = nun1;
