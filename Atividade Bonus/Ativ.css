@@ -1,0 +1,28 @@
+p {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+body {
+    background-image: url("https://yt3.googleusercontent.com/ytc/AIf8zZQAyA3XFUOFtbdChFOm3mxjEcg_1J16dV6yAY0IKFA=s176-c-k-c0x00ffffff-no-rj");
+    align-content: center;
+    
+}
+h1 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-weight: bold;
+}
